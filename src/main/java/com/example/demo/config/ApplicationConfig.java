@@ -39,6 +39,7 @@ public class ApplicationConfig extends WebMvcConfigurationSupport {
                 .allowedHeaders("*")
                 .allowedOrigins("*")
                 .allowedMethods("*");
+        //sdkfjsldfkja;sdflkjas;dfgi
 
     }
 
